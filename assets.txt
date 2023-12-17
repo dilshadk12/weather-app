@@ -1,0 +1,11 @@
+Cloud
+<a href="https://www.flaticon.com/free-icons/weather-app" title="weather app icons">Weather app icons created by Andrean Prabowo - Flaticon</a>
+clear
+<a href="https://www.flaticon.com/free-icons/sunny" title="sunny icons">Sunny icons created by riajulislam - Flaticon</a>
+Rain
+<a href="https://www.flaticon.com/free-icons/rain" title="rain icons">Rain icons created by tulpahn - Flaticon</a>
+Mist
+
+snow
+
+404.png
